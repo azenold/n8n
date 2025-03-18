@@ -1,4 +1,4 @@
- [   {
+[   {
         "titre": "https://plone.unige.ch/distic/pub/logiciels/mathtype.html",
         "texte": "Mathtype — Intranet STIC\n                    Mathtype"
     },
@@ -997,5 +997,5 @@
     {
         "titre": "https://plone.unige.ch/distic/pub/telephones/Application-cisco-jabber/cisco-jabber-android/statut-de-presence.html",
         "texte": "Présence - Cisco Jabber pour Android — Intranet STIC\n                    Présence - Cisco Jabber pour Android\nUn statut de présence permet à une personne qui souhaiterait vous contacter de savoir si vous êtes disponible ou non\n Par défaut, votre statut est automatiquement changé lorsque vous êtes au téléphone ou lorsque vous restez inactif durant 15 minutes\nVotre statut de présence peut être modifié manuellement. Par défaut, il y a 3 statuts possibles (Disponible, Absent et Ne pas déranger).\nIl est possible d’ajouter d’autres états personnalisés.\nRevenir à la page principale Cisco Jabber pour Android"
-    },
+    }
 ]
